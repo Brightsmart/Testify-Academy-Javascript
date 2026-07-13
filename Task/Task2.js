@@ -4,3 +4,4 @@ funFacts3 = "3. Javascript is the most popular programming language used in the 
 
 facts = funFacts1 +"\n"+ funFacts2+ "\n"+ funFacts3
 console.log(facts)
+
