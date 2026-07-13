@@ -1,6 +1,6 @@
-const day = "Thursday";
-const position = 4;
-const output = "Today is "+day +"."+"it is the "+position+"th "+"of the week"
+const days = "Friday";
+const positions = 4;
+const outputs = "Today is "+days +"."+"it is the "+positions+"th "+"of the week"
 
-console.log(output);
+console.log(outputs);
 
