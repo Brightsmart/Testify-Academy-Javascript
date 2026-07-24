@@ -3,4 +3,4 @@ function AreaofRectangle(length, breadth){
     console.log("Area of rectangle is: " + Area);
 }
 
-AreaofRectangle(10, 5);
+AreaofRectangle(10, 5); 
