@@ -1,0 +1,12 @@
+{
+  "name": "task16",
+  "version": "1.0.0",
+  "description": "Task assignment",
+  "license": "ISC",
+  "author": "Bright",
+  "type": "commonjs",
+  "main": "Task16.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
