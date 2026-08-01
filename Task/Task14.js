@@ -13,5 +13,5 @@ const Books = {
     }
 }
 
-//Books.toggleReadingStatus()
+Books.toggleReadingStatus()
 console.log(Books)

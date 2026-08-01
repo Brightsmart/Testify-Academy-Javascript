@@ -1,5 +1,5 @@
-for (odd = 0; odd <= 100; odd++){
-    if(odd % 2 === 0){
-        console.log(odd + " is an even number")
+for (evenNumbers = 0; evenNumbers <= 100; evenNumbers++){
+    if(evenNumbers % 2 === 0){
+        console.log(evenNumbers + " is an even number")
     }
 }
